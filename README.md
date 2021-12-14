@@ -1,2 +1,2 @@
 ##Mnist_KNN_Algorithms-
-### predict numbers using machine leaning (K_NN) with Mnist datasets
+### predict numbers using machine leaning (K_NN and MPLClassifier) with Mnist datasets
